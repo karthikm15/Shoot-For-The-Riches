@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 7973dcc7fe3b840b6ac9766a3074395f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Adjustment_Cylinder_1
+    100002: Adjustment_Cylinder_2
+    100004: Adjustment_Piece
+    100006: Adjustment_Thread
+    100008: Bullet_1
+    100010: Bullet_1_001
+    100012: Bullet_1_002
+    100014: Bullet_1_003
+    100016: Bullet_1_004
+    100018: Bullet_Chamber
+    100020: Buttstock
+    100022: //RootNode
+    100024: Rifle_Barrel
+    100026: Rifle_Barrel_End
+    100028: Rifle_Bolt
+    100030: Rifle_Bolt_Handle
+    100032: Rifle_Stock_001
+    100034: Safety
+    100036: Scope_Rail_Mount
+    100038: Screw_1
+    100040: Screw_2
+    100042: Stock_Metal_Foundation_1
+    100044: Stock_Metal_Foundation_2
+    100046: Trigger
+    100048: Trigger_Guard
+    400000: Adjustment_Cylinder_1
+    400002: Adjustment_Cylinder_2
+    400004: Adjustment_Piece
+    400006: Adjustment_Thread
+    400008: Bullet_1
+    400010: Bullet_1_001
+    400012: Bullet_1_002
+    400014: Bullet_1_003
+    400016: Bullet_1_004
+    400018: Bullet_Chamber
+    400020: Buttstock
+    400022: //RootNode
+    400024: Rifle_Barrel
+    400026: Rifle_Barrel_End
+    400028: Rifle_Bolt
+    400030: Rifle_Bolt_Handle
+    400032: Rifle_Stock_001
+    400034: Safety
+    400036: Scope_Rail_Mount
+    400038: Screw_1
+    400040: Screw_2
+    400042: Stock_Metal_Foundation_1
+    400044: Stock_Metal_Foundation_2
+    400046: Trigger
+    400048: Trigger_Guard
+    2100000: Material
+    2100002: Bullet_Material
+    2100004: Metal_Material_2_001
+    2100006: Metal_Material_001
+    2100008: Adjustment_Thread_Material_001
+    2100010: ButtStock_Material_001
+    2100012: Metal_Material
+    2300000: Adjustment_Cylinder_1
+    2300002: Adjustment_Cylinder_2
+    2300004: Adjustment_Piece
+    2300006: Adjustment_Thread
+    2300008: Bullet_1
+    2300010: Bullet_1_001
+    2300012: Bullet_1_002
+    2300014: Bullet_1_003
+    2300016: Bullet_1_004
+    2300018: Bullet_Chamber
+    2300020: Buttstock
+    2300022: Rifle_Barrel
+    2300024: Rifle_Barrel_End
+    2300026: Rifle_Bolt
+    2300028: Rifle_Bolt_Handle
+    2300030: Rifle_Stock_001
+    2300032: Safety
+    2300034: Scope_Rail_Mount
+    2300036: Screw_1
+    2300038: Screw_2
+    2300040: Stock_Metal_Foundation_1
+    2300042: Stock_Metal_Foundation_2
+    2300044: Trigger
+    2300046: Trigger_Guard
+    3300000: Adjustment_Cylinder_1
+    3300002: Adjustment_Cylinder_2
+    3300004: Adjustment_Piece
+    3300006: Adjustment_Thread
+    3300008: Bullet_1
+    3300010: Bullet_1_001
+    3300012: Bullet_1_002
+    3300014: Bullet_1_003
+    3300016: Bullet_1_004
+    3300018: Bullet_Chamber
+    3300020: Buttstock
+    3300022: Rifle_Barrel
+    3300024: Rifle_Barrel_End
+    3300026: Rifle_Bolt
+    3300028: Rifle_Bolt_Handle
+    3300030: Rifle_Stock_001
+    3300032: Safety
+    3300034: Scope_Rail_Mount
+    3300036: Screw_1
+    3300038: Screw_2
+    3300040: Stock_Metal_Foundation_1
+    3300042: Stock_Metal_Foundation_2
+    3300044: Trigger
+    3300046: Trigger_Guard
+    4300000: Rifle_Stock_001
+    4300002: Bullet_1_004
+    4300004: Bullet_1_003
+    4300006: Bullet_1_002
+    4300008: Bullet_1_001
+    4300010: Bullet_1
+    4300012: Rifle_Bolt
+    4300014: Adjustment_Cylinder_1
+    4300016: Adjustment_Cylinder_2
+    4300018: Adjustment_Piece
+    4300020: Adjustment_Thread
+    4300022: Bullet_Chamber
+    4300024: Buttstock
+    4300026: Rifle_Barrel
+    4300028: Rifle_Bolt_Handle
+    4300030: Safety
+    4300032: Scope_Rail_Mount
+    4300034: Screw_1
+    4300036: Screw_2
+    4300038: Stock_Metal_Foundation_1
+    4300040: Stock_Metal_Foundation_2
+    4300042: Trigger
+    4300044: Trigger_Guard
+    4300046: Rifle_Barrel_End
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
